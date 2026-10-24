@@ -1,25 +1,36 @@
 <div align="center">
 
-# Hey, I'm Subham 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D1117,50:102A43,100:00D9A6&text=TOMBYTEE&fontColor=FFFFFF&fontSize=68&fontAlignY=40&desc=AI-ASSISTED%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Tombytee profile banner"/>
 
-### AI-Assisted Developer | Web & App Builder
+<br/>
 
-Building useful digital projects with AI, code, and curiosity.
+<a href="https://github.com/Tombytee">
+  <img src="https://img.shields.io/badge/GitHub-Explore-0D1117?style=for-the-badge&logo=github&logoColor=00D9A6" alt="GitHub"/>
+</a>
+<a href="https://www.threads.net/@tombytee">
+  <img src="https://img.shields.io/badge/Threads-Follow-0D1117?style=for-the-badge&logo=threads&logoColor=FFFFFF" alt="Threads"/>
+</a>
+<a href="https://www.instagram.com/imxubhh/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://x.com/imxubhh">
+  <img src="https://img.shields.io/badge/X-Follow-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
+</a>
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.threads.net/@YOUR_THREADS_USERNAME">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/YOUR_X_USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
+<br/><br/>
+
+### Turning ideas into digital products.
+
+Building websites, apps, and practical tools with AI-assisted development.
+
+**Learn · Build · Experiment · Improve**
+
+<br/>
+
+[Explore Projects](#-featured-projects) ·
+[Tech Stack](#-tech-stack) ·
+[GitHub Stats](#-github-at-a-glance) ·
+[Connect](#-connect-with-me)
 
 </div>
 
@@ -27,103 +38,148 @@ Building useful digital projects with AI, code, and curiosity.
 
 ## 👨‍💻 About Me
 
-- 🔭 Building websites, apps, and practical digital projects.
-- 🤖 Exploring AI-assisted development and modern tools.
-- 🌱 Learning web development, programming, and app development.
-- 💡 Interested in AI, technology, and open-source projects.
-- 🎯 Learning by building and improving one project at a time.
+Hey, I'm **Subham**, also known as **Tombytee**.
+
+I'm an aspiring developer and project builder interested in turning ideas into useful digital products.
+
+- 🚀 Building web projects and Android applications.
+- 🤖 Exploring AI-assisted development and modern development tools.
+- 🌱 Learning through hands-on experimentation and real projects.
+- 💡 Interested in AI, software, web technologies, and open source.
+- 🎯 Focused on practical solutions, clean interfaces, and continuous improvement.
+
+I don't believe learning stops at tutorials. I prefer building, testing, fixing, and improving real projects.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 KamKaaj
-A project focused on making everyday work and tasks easier.
+<div align="center">
 
-- **Repository:** [View Project](YOUR_KAMKAAJ_REPO_URL)
+### 📎 ClipNest
+
+**Your clipboard, organized.**
+
+An Android clipboard-history app designed to help users save copied content and manage it more conveniently.
+
+<a href="https://github.com/Tombytee/ClipNest-App">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117" alt="View ClipNest source code"/>
+</a>
+
+<br/>
+
+### 📋 KamKaaj
+
+**Everyday work, made simpler.**
+
+A project focused on making everyday tasks and work easier to manage.
+
+<a href="https://github.com/aiwebnix-oss/kamkaaj">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117" alt="View KamKaaj source code"/>
+</a>
+
+<br/>
 
 ### 🌐 OX MODZ
-A web project focused on organizing and presenting digital resources.
 
-- **Website:** [Visit OX MODZ](https://oxmodz.page.gd/)
-- **Repository:** [View Source Code](YOUR_OXMODZ_REPO_URL)
-- **Technologies:** HTML, CSS, JavaScript, Firebase
+**A home for digital resources.**
+
+A web project for presenting and organizing digital resources, with Firebase-powered functionality.
+
+<a href="https://oxmodz.page.gd/">
+  <img src="https://img.shields.io/badge/VISIT_WEBSITE-00D9A6?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Visit OX MODZ website"/>
+</a>
+<a href="https://github.com/aiwebnix-oss/ox-modz">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View OX MODZ source code"/>
+</a>
+
+<br/>
 
 ### ♻️ ReUseX
-A concept designed to connect people with opportunities to reuse, donate, repair, and recycle items.
 
-- **Focus:** Sustainability and community
-- **Repository:** [View Project](YOUR_REUSEX_REPO_URL)
+**Your Waste, Someone's Need.**
+
+A sustainability-focused concept designed around selling, donating, repairing, and recycling items, alongside a community Need Board.
+
+*Concept project · No public repository yet.*
+
+</div>
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Tech Stack
 
-### Languages & Web Technologies
+### Languages & Web
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
 </p>
 
-### Development Approach
+### How I Build
 
 - AI-assisted development
 - Rapid prototyping
+- UI and product experimentation
 - Learning by building
-- Practical problem-solving
+- Iterative problem-solving
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+<a href="https://github.com/Tombytee">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tombytee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6&text_color=C9D1D9" alt="Tombytee GitHub statistics"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/Tombytee">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tombytee&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9A6&text_color=C9D1D9" alt="Tombytee most-used languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Tombytee?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=00D9A6" alt="Explore all repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 Find Me Online
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://www.threads.net/@YOUR_THREADS_USERNAME">Threads</a> •
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">Instagram</a> •
-  <a href="https://x.com/YOUR_X_USERNAME">X (Twitter)</a>
-</p>
-
----
+## 🌐 Connect With Me
 
 <div align="center">
 
-*Building, learning, and improving — one project at a time.*
+<a href="https://github.com/Tombytee">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.threads.net/@tombytee">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+</a>
+<a href="https://www.instagram.com/imxubhh/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://x.com/imxubhh">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<br/><br/>
+
+*Building today. Learning every day.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:0D1117&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
-
-<!--
-**Tombytee/Tombytee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
