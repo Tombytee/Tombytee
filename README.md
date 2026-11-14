@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D1117,50:102A43,100:00D9A6&text=TOMBYTEE&fontColor=FFFFFF&fontSize=68&fontAlignY=40&desc=AI-ASSISTED%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Tombytee profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:102A43,100:00D9A6&text=TOMBYTEE&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=AI-ASSISTED%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Tombytee profile banner"/>
+
+<a href="https://github.com/Tombytee/Tombytee">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=720&height=50&lines=Turning+ideas+into+digital+products;Building+Android+apps+%26+web+tools;AI-assisted+development+%E2%80%94+hands-on+debugging;Learn+%C2%B7+Build+%C2%B7+Experiment+%C2%B7+Improve" alt="Typing animation"/>
+</a>
 
 <br/>
 
@@ -19,18 +23,15 @@
 
 <br/><br/>
 
-### Turning ideas into digital products.
+<img src="https://komarev.com/ghpvc/?username=Tombytee&label=PROFILE+VIEWS&color=00D9A6&style=for-the-badge" alt="Profile views"/>
 
-Building websites, apps, and practical tools with AI-assisted development.
+<br/><br/>
 
-**Learn · Build · Experiment · Improve**
-
-<br/>
-
-[Explore Projects](#-featured-projects) ·
-[Tech Stack](#-tech-stack) ·
-[GitHub Stats](#-github-at-a-glance) ·
-[Connect](#-connect-with-me)
+[🚀 Projects](#-featured-projects) ·
+[🧰 Tech Stack](#-tech-stack) ·
+[⚙️ How I Build](#️-how-i-build) ·
+[📊 Stats](#-github-at-a-glance) ·
+[🌐 Connect](#-connect-with-me)
 
 </div>
 
@@ -38,100 +39,117 @@ Building websites, apps, and practical tools with AI-assisted development.
 
 ## 👨‍💻 About Me
 
-Hey, I'm **Subham**, also known as **Tombytee**.
+```js
+const tombytee = {
+  name: "Subham",
+  alias: "Tombytee",
+  role: "Indie developer & project builder",
+  building: ["Android apps", "Web projects", "Practical tools"],
+  workflow: "AI-assisted development + hands-on debugging",
+  exploring: ["AI", "Modern dev tools", "Open source"],
+  motto: "Learn · Build · Experiment · Improve",
+};
+```
 
-I'm an aspiring developer and project builder interested in turning ideas into useful digital products.
-
-- 🚀 Building web projects and Android applications.
-- 🤖 Exploring AI-assisted development and modern development tools.
-- 🌱 Learning through hands-on experimentation and real projects.
-- 💡 Interested in AI, software, web technologies, and open source.
-- 🎯 Focused on practical solutions, clean interfaces, and continuous improvement.
-
-I don't believe learning stops at tutorials. I prefer building, testing, fixing, and improving real projects.
+> I don't believe learning stops at tutorials. I prefer **building, testing, fixing, and improving** real projects.
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📎 ClipNest
-
 **Your clipboard, organized.**
 
-An Android clipboard-history app designed to help users save copied content and manage it more conveniently.
+An Android clipboard-history app that saves what you copy and keeps it organized and easy to manage.
 
-<a href="https://github.com/Tombytee/ClipNest-App">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117" alt="View ClipNest source code"/>
-</a>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Clipboard](https://img.shields.io/badge/Clipboard_History-0D1117?style=flat-square)
 
-<br/>
+[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Tombytee/ClipNest-App)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📋 KamKaaj
-
 **Everyday work, made simpler.**
 
-A project focused on making everyday tasks and work easier to manage.
+An offline-first Android app for managing household documents: rent receipts, warranty cards, insurance papers and EMI tracking, built for everyday Indian homes.
 
-<a href="https://github.com/aiwebnix-oss/kamkaaj">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117" alt="View KamKaaj source code"/>
-</a>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Offline First](https://img.shields.io/badge/Offline--First-0D1117?style=flat-square)
 
-<br/>
+[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/aiwebnix-oss/kamkaaj)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 OX MODZ
-
 **A home for digital resources.**
 
 A web project for presenting and organizing digital resources, with Firebase-powered functionality.
 
-<a href="https://oxmodz.page.gd/">
-  <img src="https://img.shields.io/badge/VISIT_WEBSITE-00D9A6?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Visit OX MODZ website"/>
-</a>
-<a href="https://github.com/aiwebnix-oss/ox-modz">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View OX MODZ source code"/>
-</a>
+![Web](https://img.shields.io/badge/Web-1572B6?style=flat-square&logo=googlechrome&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<br/>
+[![Live Site](https://img.shields.io/badge/VISIT_WEBSITE-00D9A6?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://oxmodz.page.gd/)
+[![Source Code](https://img.shields.io/badge/SOURCE-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/aiwebnix-oss/ox-modz)
+
+</td>
+<td width="50%" valign="top">
 
 ### ♻️ ReUseX
-
 **Your Waste, Someone's Need.**
 
-A sustainability-focused concept designed around selling, donating, repairing, and recycling items, alongside a community Need Board.
+A sustainability-focused concept built around selling, donating, repairing and recycling items, plus a community **Need Board**.
 
-*Concept project · No public repository yet.*
+![Concept](https://img.shields.io/badge/Status-Concept-F59E0B?style=flat-square)
+![Sustainability](https://img.shields.io/badge/Sustainability-2EA043?style=flat-square)
 
-</div>
+*No public repository yet.*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages & Web
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,androidstudio,firebase,github&theme=dark" alt="Tech stack icons"/>
 
-### Tools & Platforms
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
-</p>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
+<img src="https://img.shields.io/badge/AI--Assisted_Dev-00D9A6?style=for-the-badge&logoColor=0D1117" alt="AI-assisted development"/>
 
-### How I Build
+</div>
 
-- AI-assisted development
-- Rapid prototyping
-- UI and product experimentation
-- Learning by building
-- Iterative problem-solving
+---
+
+## ⚙️ How I Build
+
+```mermaid
+flowchart LR
+    A["💡 Idea"] --> B["🤖 AI-assisted prototype"]
+    B --> C["🛠️ Build"]
+    C --> D["🧪 Test & fix"]
+    D --> E["🚀 Ship"]
+    E -. "learn & improve" .-> A
+```
+
+- ⚡ **Rapid prototyping:** get a working version first, polish later
+- 🎨 **UI & product experimentation:** try, compare, keep what feels right
+- 🔁 **Iterative problem-solving:** every bug is a lesson
+- 🌱 **Learning by building:** real projects over endless tutorials
 
 ---
 
@@ -142,10 +160,25 @@ A sustainability-focused concept designed around selling, donating, repairing, a
 <a href="https://github.com/Tombytee">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tombytee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6&text_color=C9D1D9" alt="Tombytee GitHub statistics"/>
 </a>
-
 <a href="https://github.com/Tombytee">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tombytee&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9A6&text_color=C9D1D9" alt="Tombytee most-used languages"/>
 </a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Tombytee&theme=dark&hide_border=true&background=0D1117&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6" alt="Tombytee GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tombytee&bg_color=0D1117&color=00D9A6&line=00D9A6&point=FFFFFF&area=true&area_color=00D9A6&hide_border=true" alt="Tombytee contribution activity graph" width="95%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tombytee/Tombytee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tombytee/Tombytee/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Tombytee/Tombytee/output/github-snake-dark.svg" />
+</picture>
 
 <br/><br/>
 
@@ -160,6 +193,8 @@ A sustainability-focused concept designed around selling, donating, repairing, a
 ## 🌐 Connect With Me
 
 <div align="center">
+
+**Got an idea, feedback, or want to build something together? Say hi!**
 
 <a href="https://github.com/Tombytee">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -176,9 +211,7 @@ A sustainability-focused concept designed around selling, donating, repairing, a
 
 <br/><br/>
 
-*Building today. Learning every day.*
-
-<br/>
+*Building today. Learning every day.* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:0D1117&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
