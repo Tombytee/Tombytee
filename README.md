@@ -1,176 +1,160 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:102A43,100:00D9A6&text=TOMBYTEE&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=AI-ASSISTED%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Tombytee profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:102A43,100:00D9A6&text=TOMBYTEE&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=AI-ASSISTED%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Tombytee profile banner"/>
 
-<!-- Animated Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Turning+ideas+into+digital+products;Building+Android+Apps+%26+Smart+Web+Tools;AI-Assisted+Development+%2B+Hands-on+Debugging;Learn+%C2%B7+Build+%C2%B7+Experiment+%C2%B7+Improve" alt="Typing SVG" />
-</a>
+### Turning ideas into digital products.
+
+Building websites, apps, and practical tools with AI-assisted development.
+
+**Learn · Build · Experiment · Improve**
 
 <br/>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://github.com/Tombytee">
-    <img src="https://img.shields.io/badge/GitHub-102A43?style=for-the-badge&logo=github&logoColor=00D9A6" alt="GitHub"/>
-  </a>
-  <a href="https://x.com/imxubhh">
-    <img src="https://img.shields.io/badge/X-102A43?style=for-the-badge&logo=x&logoColor=00D9A6" alt="X"/>
-  </a>
-  <a href="https://www.threads.net/@tombytee">
-    <img src="https://img.shields.io/badge/Threads-102A43?style=for-the-badge&logo=threads&logoColor=00D9A6" alt="Threads"/>
-  </a>
-  <a href="https://www.instagram.com/imxubhh/">
-    <img src="https://img.shields.io/badge/Instagram-102A43?style=for-the-badge&logo=instagram&logoColor=00D9A6" alt="Instagram"/>
-  </a>
-</p>
+<a href="https://github.com/Tombytee">
+  <img src="https://img.shields.io/badge/GitHub-Explore-102A43?style=for-the-badge&logo=github&logoColor=00D9A6&labelColor=0D1117" alt="GitHub"/>
+</a>
+<a href="https://www.threads.net/@tombytee">
+  <img src="https://img.shields.io/badge/Threads-Follow-102A43?style=for-the-badge&logo=threads&logoColor=00D9A6&labelColor=0D1117" alt="Threads"/>
+</a>
+<a href="https://www.instagram.com/imxubhh/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-102A43?style=for-the-badge&logo=instagram&logoColor=00D9A6&labelColor=0D1117" alt="Instagram"/>
+</a>
+<a href="https://x.com/imxubhh">
+  <img src="https://img.shields.io/badge/X-Follow-102A43?style=for-the-badge&logo=x&logoColor=00D9A6&labelColor=0D1117" alt="X"/>
+</a>
 
-<!-- Quick Navigation Pills -->
-<p align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/About_Me-102A43?style=flat-square&logo=target&logoColor=00D9A6" alt="About Me"/></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-102A43?style=flat-square&logo=codeforces&logoColor=00D9A6" alt="Projects"/></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-102A43?style=flat-square&logo=buffer&logoColor=00D9A6" alt="Tech Stack"/></a>
-  <a href="#how-i-build"><img src="https://img.shields.io/badge/Workflow-102A43?style=flat-square&logo=git&logoColor=00D9A6" alt="Workflow"/></a>
-  <a href="#github-insights"><img src="https://img.shields.io/badge/Stats-102A43?style=flat-square&logo=chartdotjs&logoColor=00D9A6" alt="Stats"/></a>
-  <a href="#connect-with-me"><img src="https://img.shields.io/badge/Contact-102A43?style=flat-square&logo=mailgun&logoColor=00D9A6" alt="Contact"/></a>
-</p>
+<br/><br/>
+
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-102A43?style=flat-square" alt="Projects"/></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-102A43?style=flat-square" alt="Tech Stack"/></a>
+<a href="#-how-i-build"><img src="https://img.shields.io/badge/How_I_Build-102A43?style=flat-square" alt="How I Build"/></a>
+<a href="#-github-at-a-glance"><img src="https://img.shields.io/badge/Stats-102A43?style=flat-square" alt="Stats"/></a>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-102A43?style=flat-square" alt="Connect"/></a>
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> About Me
+## 👨‍💻 About Me
 
-```javascript
+```js
 const tombytee = {
   name: "Subham",
   alias: "Tombytee",
-  role: "Indie Developer & Digital Product Builder",
-  crafting: ["Android Apps", "Utility Web Platforms", "Automations"],
-  stackMindset: "AI-assisted velocity + Deep manual debugging",
-  exploring: ["Generative AI APIs", "Modern Kotlin / Compose", "Open-Source Tooling"],
-  motto: "Learn · Build · Experiment · Improve"
+  role: "Indie developer & project builder",
+  building: ["Android apps", "Web projects", "Practical tools"],
+  workflow: "AI-assisted development + hands-on debugging",
+  exploring: ["AI", "Modern dev tools", "Open source"],
+  motto: "Learn · Build · Experiment · Improve",
 };
 ```
 
-> *"I don't believe learning stops at passive tutorials. I prefer building, breaking, fixing, and scaling real-world solutions."*
+> I don't believe learning stops at tutorials. I prefer **building, testing, fixing, and improving** real projects.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📎 ClipNest</h3>
-      <p><b>Your clipboard, finally organized.</b></p>
-      <p>A smart, privacy-first Android clipboard manager that archives clips and keeps your copy history searchable and neatly sorted.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Android-Kotlin-102A43?style=flat-square&logo=android&logoColor=00D9A6"/>
-        <img src="https://img.shields.io/badge/Jetpack_Compose-102A43?style=flat-square&logo=jetpackcompose&logoColor=00D9A6"/>
-      </p>
-      <p>
-        <a href="https://github.com/Tombytee/ClipNest-App"><b>📦 View Source Code »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 KamKaaj</h3>
-      <p><b>Everyday paperwork, simplified.</b></p>
-      <p>An offline-first Android solution for household records: rent receipts, appliance warranties, insurance docs, and EMI alerts built specifically for Indian families.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Offline--First-102A43?style=flat-square&logo=databricks&logoColor=00D9A6"/>
-        <img src="https://img.shields.io/badge/Android-102A43?style=flat-square&logo=android&logoColor=00D9A6"/>
-      </p>
-      <p>
-        <a href="https://github.com/aiwebnix-oss/kamkaaj"><b>📦 View Source Code »</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 OX MODZ</h3>
-      <p><b>Centralized hub for digital utilities.</b></p>
-      <p>A curated resource repository and directory powered by Firebase cloud infrastructure with clean categorizations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web-Live-102A43?style=flat-square&logo=googlechrome&logoColor=00D9A6"/>
-        <img src="https://img.shields.io/badge/Firebase-Backend-102A43?style=flat-square&logo=firebase&logoColor=00D9A6"/>
-      </p>
-      <p>
-        <a href="https://oxmodz.page.gd/"><b>🔗 Live Demo »</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/aiwebnix-oss/ox-modz"><b>📦 Source »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>♻️ ReUseX</h3>
-      <p><b>Your waste, someone's urgent need.</b></p>
-      <p>A circular sustainability initiative for donating, swapping, repairing, and recycling physical items with an integrated hyper-local Need Board.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Concept_&_Architecture-102A43?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Focus-Zero_Waste-102A43?style=flat-square&logoColor=00D9A6"/>
-      </p>
-      <p>
-        <i>🚧 In design & architecture phase</i>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📎 ClipNest
+**Your clipboard, organized.**
+
+An Android clipboard-history app that saves what you copy and keeps it organized and easy to manage.
+
+![Android](https://img.shields.io/badge/Android-102A43?style=flat-square&logo=android&logoColor=00D9A6)
+![Clipboard](https://img.shields.io/badge/Clipboard_History-102A43?style=flat-square)
+
+[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Tombytee/ClipNest-App)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 KamKaaj
+**Everyday work, made simpler.**
+
+An offline-first Android app for managing household documents: rent receipts, warranty cards, insurance papers and EMI tracking, built for everyday Indian homes.
+
+![Android](https://img.shields.io/badge/Android-102A43?style=flat-square&logo=android&logoColor=00D9A6)
+![Offline First](https://img.shields.io/badge/Offline--First-102A43?style=flat-square)
+
+[![Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-00D9A6?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/aiwebnix-oss/kamkaaj)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 OX MODZ
+**A home for digital resources.**
+
+A web project for presenting and organizing digital resources, with Firebase-powered functionality.
+
+![Web](https://img.shields.io/badge/Web-102A43?style=flat-square&logo=googlechrome&logoColor=00D9A6)
+![Firebase](https://img.shields.io/badge/Firebase-102A43?style=flat-square&logo=firebase&logoColor=00D9A6)
+
+[![Live Site](https://img.shields.io/badge/VISIT_WEBSITE-00D9A6?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://oxmodz.page.gd/)
+[![Source Code](https://img.shields.io/badge/SOURCE-102A43?style=for-the-badge&logo=github&logoColor=00D9A6)](https://github.com/aiwebnix-oss/ox-modz)
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ ReUseX
+**Your Waste, Someone's Need.**
+
+A sustainability-focused concept built around selling, donating, repairing and recycling items, plus a community **Need Board**.
+
+![Concept](https://img.shields.io/badge/Status-Concept-102A43?style=flat-square)
+![Sustainability](https://img.shields.io/badge/Sustainability-102A43?style=flat-square)
+
+*No public repository yet.*
+
+</td>
+</tr>
 </table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> Tech Stack & Tools
+## 🧰 Tech Stack
 
 <div align="center">
 
-<!-- Skill Icons Unified Dark Shelf -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,html,css,firebase,git,github&theme=dark" alt="Core Technologies"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,androidstudio,firebase,github&theme=dark" alt="Tech stack icons"/>
 
 <br/><br/>
 
-<!-- Modern Pill Badges matching palette -->
 <img src="https://img.shields.io/badge/Jetpack_Compose-102A43?style=for-the-badge&logo=jetpackcompose&logoColor=00D9A6&labelColor=0D1117" alt="Jetpack Compose"/>
 <img src="https://img.shields.io/badge/Google_AI_Studio-102A43?style=for-the-badge&logo=google&logoColor=00D9A6&labelColor=0D1117" alt="Google AI Studio"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-102A43?style=for-the-badge&logo=openai&logoColor=00D9A6&labelColor=0D1117" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/AI--Assisted_Workflow-00D9A6?style=for-the-badge&color=00D9A6&labelColor=102A43&logoColor=00D9A6" alt="AI Assisted Workflow"/>
+<img src="https://img.shields.io/badge/AI--Assisted_Dev-00D9A6?style=for-the-badge" alt="AI-assisted development"/>
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="28" height="28" /> How I Build
+## 🔧 How I Build
 
 ```mermaid
 flowchart LR
-    A["💡 Spark (Idea)"] --> B["🤖 AI Blueprint & Prototype"]
-    B --> C["🛠️ Hands-on Code & Compose"]
-    C --> D["🧪 Test, Debug & Refactor"]
-    D --> E["🚀 Ship to Users"]
-    E -. "Feedback & Iterate" .-> A
-
-    classDef default fill:#102A43,stroke:#00D9A6,stroke-width:2px,color:#FFFFFF;
-    linkStyle default stroke:#00D9A6,stroke-width:2px;
+    A["💡 Idea"] --> B["🤖 AI-assisted prototype"]
+    B --> C["🛠️ Build"]
+    C --> D["🧪 Test & fix"]
+    D --> E["🚀 Ship"]
+    E -. "learn & improve" .-> A
 ```
 
-- ⚡ **Rapid Prototyping:** AI se boilerplate aur structural prototype tezi se banana.
-- 🎨 **UI/UX Crafting:** Jetpack Compose & modern web components ke sath visual polish.
-- 🔁 **Deep Debugging:** Code generated ho ya manual, edge cases aur crashes khud test & solve karna.
-- 📦 **Ship Early, Iterate Fast:** Sirf tutorials nahi, live feedback par product ko evolve karna.
+- ⚡ **Rapid prototyping:** get a working version first, polish later
+- 🎨 **UI & product experimentation:** try, compare, keep what feels right
+- 🔁 **Iterative problem-solving:** every bug is a lesson
+- 🌱 **Learning by building:** real projects over endless tutorials
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="28" height="28" /> GitHub Insights
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<!-- Dynamic GitHub Stats Cards with Custom Teal/Navy Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=Tombytee&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6&text_color=E0E6ED&border_color=102A43&hide_border=false" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tombytee&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9A6&text_color=E0E6ED&border_color=102A43&hide_border=false" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Realtime Badges -->
 <a href="https://github.com/Tombytee?tab=followers">
   <img src="https://img.shields.io/github/followers/Tombytee?style=for-the-badge&logo=github&logoColor=00D9A6&labelColor=102A43&color=00D9A6" alt="GitHub followers"/>
 </a>
@@ -183,7 +167,6 @@ flowchart LR
 
 <br/><br/>
 
-<!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tombytee/Tombytee/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tombytee/Tombytee/output/github-snake.svg" />
@@ -193,26 +176,21 @@ flowchart LR
 <br/><br/>
 
 <a href="https://github.com/Tombytee?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES_%E2%86%92-102A43?style=for-the-badge&logo=github&logoColor=00D9A6&labelColor=0D1117" alt="Explore all repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-102A43?style=for-the-badge&logo=github&logoColor=00D9A6" alt="Explore all repositories"/>
 </a>
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" height="28" /> Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-Got an idea, feedback, or want to collaborate on a product? Feel free to reach out!
-
-<br/>
+**Got an idea, feedback, or want to build something together? Say hi!**
 
 <a href="https://github.com/Tombytee">
   <img src="https://img.shields.io/badge/GitHub-102A43?style=for-the-badge&logo=github&logoColor=00D9A6" alt="GitHub"/>
-</a>
-<a href="https://x.com/imxubhh">
-  <img src="https://img.shields.io/badge/X-102A43?style=for-the-badge&logo=x&logoColor=00D9A6" alt="X"/>
 </a>
 <a href="https://www.threads.net/@tombytee">
   <img src="https://img.shields.io/badge/Threads-102A43?style=for-the-badge&logo=threads&logoColor=00D9A6" alt="Threads"/>
@@ -220,14 +198,14 @@ Got an idea, feedback, or want to collaborate on a product? Feel free to reach o
 <a href="https://www.instagram.com/imxubhh/">
   <img src="https://img.shields.io/badge/Instagram-102A43?style=for-the-badge&logo=instagram&logoColor=00D9A6" alt="Instagram"/>
 </a>
+<a href="https://x.com/imxubhh">
+  <img src="https://img.shields.io/badge/X-102A43?style=for-the-badge&logo=x&logoColor=00D9A6" alt="X"/>
+</a>
 
 <br/><br/>
 
-<sub><i>Building today. Learning every day. ✨</i></sub>
+*Building today. Learning every day.* ✨
 
-<br/><br/>
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:0D1117&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:0D1117&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
