@@ -1,6 +1,6 @@
-name: Update Contribution Snake
+name: Update Snake & Assets
 
-# Run on a schedule (daily) and also on every push to the default branch
+# Run daily to keep the snake fresh, and also on every push to main/master
 on:
   schedule:
     - cron: '0 0 * * *'   # every day at 00:00 UTC
@@ -8,35 +8,43 @@ on:
     branches: [ main, master ]
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to push the generated SVGs
+      contents: write   # needed to push generated files
+
     steps:
-      # ----- 1️⃣ Checkout the repository ---------------------------------------
+      # --------------------------------------------------------------
+      # 1️⃣  Checkout the repo (full history so we can commit)
+      # --------------------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # required for a clean commit history
+          fetch-depth: 0
 
-      # ----- 2️⃣ Set up Python (the snake generator is a Python script) -------
+      # --------------------------------------------------------------
+      # 2️⃣  Set up Python (snake generator is a Python package)
+      # --------------------------------------------------------------
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
-      # ----- 3️⃣ Install the snake generator ------------------------------------
+      # --------------------------------------------------------------
+      # 3️⃣  Install the snake generator (github‑readme‑activity‑graph)
+      # --------------------------------------------------------------
       - name: Install snake generator
         run: |
           python -m pip install --upgrade pip
           pip install git+https://github.com/rajat-1999/github-readme-activity-graph.git
 
-      # ----- 4️⃣ Generate the SVGs (light & dark) -----------------------------
-      - name: Generate snake SVG (light)
+      # --------------------------------------------------------------
+      # 4️⃣  Generate the light‑mode snake SVG
+      # --------------------------------------------------------------
+      - name: Generate light‑mode snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # The tool uses the env var `GITHUB_TOKEN` to query the API
           python -m github_readme_activity_graph \
             --username ${{ github.repository_owner }} \
             --output ./output/github-snake.svg \
@@ -44,7 +52,10 @@ jobs:
             --color 00D9A6 \
             --bg-color 0D1117
 
-      - name: Generate snake SVG (dark)
+      # --------------------------------------------------------------
+      # 5️⃣  Generate the dark‑mode snake SVG
+      # --------------------------------------------------------------
+      - name: Generate dark‑mode snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -55,19 +66,39 @@ jobs:
             --color 00D9A6 \
             --bg-color 0D1117
 
-      # ----- 5️⃣ Commit & push the generated files -----------------------------
-      - name: Commit SVGs
+      # --------------------------------------------------------------
+      # 6️⃣  Download the extra animated GIF (once per run)
+      # --------------------------------------------------------------
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download light‑mode pulsar GIF
+        run: |
+          curl -L -o assets/coding-pulsar-light.gif \
+            https://raw.githubusercontent.com/rajat-1999/github-readme-activity-graph/main/assets/pulsar.gif
+
+      - name: Create dark‑mode version (simply invert colors using ImageMagick)
+        # ImageMagick is pre‑installed on the Ubuntu runner
+        run: |
+          convert assets/coding-pulsar-light.gif -colorspace Gray -negate assets/coding-pulsar-dark.gif
+
+      # --------------------------------------------------------------
+      # 7️⃣  Commit any changed assets (snake + GIFs)
+      # --------------------------------------------------------------
+      - name: Commit generated assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Add only the snake files (creates them if they changed)
-          git add output/github-snake.svg output/github-snake-dark.svg
-          
-          # Check if there is anything to commit
-          if ! git diff --cached --quiet; then
-            git commit -m "🤖 Update contribution snake (auto‑generated)"
-            git push
-          else
-            echo "✅ No changes – snake image already up‑to‑date"
+
+          # Add only files that actually changed
+          git add output/github-snake.svg output/github-snake-dark.svg \
+                  assets/coding-pulsar-light.gif assets/coding-pulsar-dark.gif
+
+          # Exit cleanly if nothing changed
+          if git diff --cached --quiet; then
+            echo "✅ No asset changes – nothing to commit."
+            exit 0
           fi
+
+          git commit -m "🤖 Refresh snake + pulsar animation (auto‑generated)"
+          git push
